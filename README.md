@@ -49,4 +49,4 @@ I would totally like to perfect the use of Grid in CSS, it was quite difficult f
 ## Author
 
 - Website - [My portfolio](https://said.github.io/Portfolio)
-- Frontend Mentor - [@SaidSuyv](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@SaidSuyv](https://www.frontendmentor.io/profile/SaidSuyv)
