@@ -10,7 +10,7 @@
 }
 
 *{padding: 0;margin: 0;}
-html,body{height: 100%;}
+html,body{min-height: 100%;}
 body{
   background-color: var(--cream);
   display: grid;
@@ -136,15 +136,20 @@ main div.description button span
 {
   main
   {
-    max-width: 570px;
+    max-width: 600px;
     display: flex;
     align-items: center;
   }
 
   main div.description
   {
-    flex-basis: 70%;
+    padding: 0 30px;
     max-width: 200px;
+  }
+
+  main div.description div.price del.old
+  {
+    font-size: 14px;
   }
 }
 
